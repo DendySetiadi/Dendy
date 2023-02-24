@@ -1,4 +1,69 @@
-SI Budi dan si ratna
-SI Buda mencari cinta
-SI bayu dan si kera sakti
-ratu
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+   <h1 style="color: brown;">Perkenalan Diri</h1>
+   
+    <p ><b>Perkanalkan
+         </b> nama saya
+        <i>Gregorius Dendy Setiadi
+             </i>, aku lahir di Pangkalpinang 14 September 2003 , aku anak ke 2 dari dua bersaudara . Aku memiliki satu saudara perepmpuan bernama Geovani Debby Setyani.
+             Sekarang aku berumur 19 tahun dan berkuliah di Universitas Sanata Dharma mengambil jurusan Informatika.
+    </p>
+    <p style="text-align: right;">
+       <b> Alasan saya
+        </b>
+        , saya mengambil jurusan infromatika karena saya tertarik tentang dunia teknologi 
+        dan peluang kedepan yang di dunia pekerjaan yang bisa dibilang sangat luas
+        <i> "Tidak semua hal harus sesuai dengan yang kamu inginkan "
+
+        </i>
+        ini adalah motto yang saya liat di internet dan saya jadikan kata pegangan dalam menghadapi setiaap masalah
+    </p>
+    <center>
+        <img src="https://www.usd.ac.id/logo/usd.png" width="250 " height=" 250">
+     
+    </center>
+    <table border="2">
+    <tr> 
+        <th>No</th>
+        <th>Isi</th>
+    </tr>
+    <tr>
+        <td>1.</td>
+        <td>Dendy</td>
+    <tr>
+        <td>2. </td>
+        <td> 215314078</td>
+    </tr>
+    <tr>
+        <td>3.</td>
+        <td>Anak ke 2</td>
+    </tr>
+    <td>4. </td>
+    <td> <a href="https://instagram.com/gregoriusdendyy?igshid=YmMyMTA2M2Y=">instagram</a>
+   
+    </td>
+    <tr></tr>
+    </tr>
+    </table>
+    <ul type="square">
+        <li> dendy</li>
+        <li> anak ke 2</li>
+        <li> 215314078</li>
+    </ul>
+   
+
+
+   
+    
+    
+    
+</body>
+</html>
